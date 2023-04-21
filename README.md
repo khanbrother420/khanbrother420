@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, IT'S KHAN OFFICIAL</h1>
+<h1 align="center"> IT'S KHAN OFFICIAL</h1>
 <h3 align="center">IT’S NOT JUST A NAME. IT’S A BRAND</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanbrother420&label=Profile%20views&color=0e75b6&style=flat" alt="khanbrother420" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanbrother420" alt="khanbrother420" /></a> </p>
 
-- 🔭 I’m currently working on **Cuber Security Specialist**
+- 🔭 I’m currently working on **Cuber Security Expert**
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mr.khanvau991133@gmail.com**
 
-- ⚡ Fun fact **I Am Joker 🤡**
+- ⚡ Fun fact **Beautiful Mind With Beautiful Thought Be Happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
