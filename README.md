@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khanbrother420" alt="khanbrother420" /></a> </p>
 
-- 🔭 I’m currently working on **Cuber Security Specialist**
+- 🔭 I’m currently working on **Cuber Security Protect**
 
 - 🌱 I’m currently learning **Ethical Hacking**
 
