@@ -31,8 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khanbrother420&show_icons=true&locale=en" alt="khanbrother420" /></p>
 
-```
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=KasRoudra&layout=compact&type=donut&theme=gruvbox_light)](https://github.com/KasRoudra/github-stats-card)
-```
+
 
 
